@@ -18,7 +18,9 @@ yarn add sass
 ```Typescript
 import styles from 'name.module.scss';
 ```
-3.7Add the name of the import and class / id to className
+3.7 Add the name of the import and class / id to className
 ```
 styles.title
 ```
+4. The file _app.tsx is rendered every time a page is loaded
+5. The file _document.tsx is rendered only once 
