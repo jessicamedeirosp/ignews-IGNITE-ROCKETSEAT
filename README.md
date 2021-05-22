@@ -43,5 +43,11 @@ styles.title
 6. Install React Icons
 
 ```
- yarn add react-icons
- ```
+yarn add react-icons
+```
+
+7. Install stripe
+
+```
+yarn add stripe
+```
