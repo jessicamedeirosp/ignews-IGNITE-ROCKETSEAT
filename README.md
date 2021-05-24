@@ -22,15 +22,15 @@ yarn add --dev typescript @types/react @types/node
 yarn add sass
 ```
 
-3.5 create files with name.module.scss and add the style by class/id
+3.4 create files with name.module.scss and add the style by class/id
 
-3.6 Import into the file name.tsx
+3.5 Import into the file name.tsx
 
 ```Typescript
 import styles from 'name.module.scss';
 ```
 
-3.7 Add the name of the import and class / id to className
+3.6 Add the name of the import and class / id to className
 
 ```
 styles.title
@@ -50,4 +50,11 @@ yarn add react-icons
 
 ```
 yarn add stripe
+```
+
+8. Install nextAuth
+
+```bash
+yarn add next-auth 
+yarn add --dev @types/next-auth 
 ```
