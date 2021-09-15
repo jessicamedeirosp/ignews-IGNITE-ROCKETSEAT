@@ -13,5 +13,5 @@ yarn
 3. Run the application
 
 ```
-yarn
+yarn dev
 ```
